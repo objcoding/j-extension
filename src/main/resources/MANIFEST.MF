@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: A simple java SPI
+Bundle-SymbolicName: com.objcoding.extension;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Vendor: Objcoding
+Require-Bundle: com.objcoding.superapi.common.core.client
